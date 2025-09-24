@@ -1,0 +1,38 @@
+2025-09-23 00:59:23 INFO  Utils:112 - [TestNG] Running:
+  G:\myworkspace\opencartV121\master.xml
+
+2025-09-23 01:01:49 INFO  Utils:112 - [TestNG] Running:
+  G:\myworkspace\opencartV121\master.xml
+
+2025-09-23 01:02:04 INFO  TC001_AccountRegistrationTest:17 - ****Starting Test Case****
+2025-09-23 01:02:05 INFO  TC001_AccountRegistrationTest:23 - Click on My Account
+2025-09-23 01:02:05 INFO  TC001_AccountRegistrationTest:26 - Click On  Account Registration
+2025-09-23 01:02:05 INFO  TC001_AccountRegistrationTest:29 - Providing Customer Details
+2025-09-23 01:02:08 INFO  TC001_AccountRegistrationTest:44 - Validating Message
+2025-09-23 01:02:08 INFO  TC001_AccountRegistrationTest:55 - Test Excuted Successfully
+2025-09-23 01:02:13 INFO  TC002_AccountLogin:18 - ****Starting Login Test******
+2025-09-23 01:02:17 INFO  TC002_AccountLogin:35 - **** Login Finished*******
+2025-09-23 01:02:58 INFO  TC001_AccountRegistrationTest:17 - ****Starting Test Case****
+2025-09-23 01:02:58 INFO  TC001_AccountRegistrationTest:23 - Click on My Account
+2025-09-23 01:02:59 INFO  TC001_AccountRegistrationTest:26 - Click On  Account Registration
+2025-09-23 01:02:59 INFO  TC001_AccountRegistrationTest:29 - Providing Customer Details
+2025-09-23 01:03:02 INFO  TC001_AccountRegistrationTest:44 - Validating Message
+2025-09-23 01:03:02 INFO  TC001_AccountRegistrationTest:55 - Test Excuted Successfully
+2025-09-23 01:03:07 INFO  TC002_AccountLogin:18 - ****Starting Login Test******
+2025-09-23 01:03:10 INFO  TC002_AccountLogin:35 - **** Login Finished*******
+2025-09-23 01:32:23 INFO  TC001_AccountRegistrationTest:17 - ****Starting Test Case****
+2025-09-23 01:32:24 INFO  TC001_AccountRegistrationTest:23 - Click on My Account
+2025-09-23 01:32:25 INFO  TC001_AccountRegistrationTest:26 - Click On  Account Registration
+2025-09-23 01:32:25 INFO  TC001_AccountRegistrationTest:29 - Providing Customer Details
+2025-09-23 01:32:28 INFO  TC001_AccountRegistrationTest:44 - Validating Message
+2025-09-23 01:32:28 INFO  TC001_AccountRegistrationTest:55 - Test Excuted Successfully
+2025-09-23 01:32:33 INFO  TC002_AccountLogin:18 - ****Starting Login Test******
+2025-09-23 01:32:36 INFO  TC002_AccountLogin:35 - **** Login Finished*******
+2025-09-23 01:37:45 INFO  TC001_AccountRegistrationTest:17 - ****Starting Test Case****
+2025-09-23 01:37:46 INFO  TC001_AccountRegistrationTest:23 - Click on My Account
+2025-09-23 01:37:47 INFO  TC001_AccountRegistrationTest:26 - Click On  Account Registration
+2025-09-23 01:37:47 INFO  TC001_AccountRegistrationTest:29 - Providing Customer Details
+2025-09-23 01:37:49 INFO  TC001_AccountRegistrationTest:44 - Validating Message
+2025-09-23 01:37:49 INFO  TC001_AccountRegistrationTest:55 - Test Excuted Successfully
+2025-09-23 01:37:54 INFO  TC002_AccountLogin:18 - ****Starting Login Test******
+2025-09-23 01:37:58 INFO  TC002_AccountLogin:35 - **** Login Finished*******
